@@ -1,0 +1,121 @@
+{
+    "guajalotas": [
+       {
+            "category": "Guajalotas",
+            "id": 1,
+            "type": "Verde",
+            "title": "Guajalota de Tamal Verde",
+            "price": 25,
+            "image": "https://i.ibb.co/ZWhyfNx/guajolotas.png",
+            "taste": "https://i.ibb.co/MSL8S4V/verde.png"
+       },
+       {
+           "category": "Guajalotas",
+           "id": 2,
+           "type": "Mole",
+           "title": "Guajalota de Tamal de Mole",
+           "price": 25,
+           "image": "https://i.ibb.co/VjQZYwm/guajolotas-1.png",
+           "taste": "https://i.ibb.co/LnD3m3f/sabores-4.png"     
+       },
+       {
+           "category": "Guajalotas",
+           "id": 3,
+           "type": "Guayaba",
+           "title": "Guajalota de Guayaba",
+           "price": 25,
+           "image": "https://i.ibb.co/d4rQjK2/guajolotas-2.png",
+           "taste": "https://i.ibb.co/ZMvYFrr/sabores-3.png"
+       },
+       {
+           "category": "Guajalotas",
+           "id": 4,
+           "type": "Piña",
+           "title": "Guajalota de Piña",
+           "price": 25,
+           "image": "https://i.ibb.co/rvgKGYm/guajolotas-3.png",
+           "taste": "https://i.ibb.co/mtRQK5z/sabores-1.png"    
+       },
+       {
+           "category": "Guajalotas",
+           "id": 5,
+           "type": "Pasas",
+           "title": "Guajalota de Pasas",
+           "price": 25,
+           "image": "https://i.ibb.co/RvRY77d/guajolotas-4.png",
+           "taste": "https://i.ibb.co/6sGkk0t/sabores-2.png"
+       },
+       {
+           "category": "Bebidas",
+           "id": 6,
+           "title": "Champurrado",
+           "price": 12,
+           "image": "https://i.ibb.co/ySxrsM6/bebidas-2.png",
+           "taste": "https://i.ibb.co/D9LXTSc/sabores-5.png"
+       },
+       {
+           "category": "Bebidas",
+           "id": 7,
+           "title": "Atole de Arroz con Leche",
+           "price": 12,
+           "image": "https://i.ibb.co/600Dbf4/bebidas-1.png",
+           "taste": "https://i.ibb.co/whttrNN/sabores-6.png"
+       },
+       {
+           "category": "Bebidas",
+           "id": 8,
+           "title": "Chocolate Caliente",
+           "price": 12,
+           "image": "https://i.ibb.co/ySxrsM6/bebidas-2.png",
+           "taste": "https://i.ibb.co/6rHkhdg/sabores-7.png"
+       },
+       {
+           "category": "Bebidas",
+           "id": 9,
+           "title": "Café Negro",
+           "price": 12,
+           "image": "https://i.ibb.co/ySxrsM6/bebidas-2.png",
+           "taste": "https://i.ibb.co/SxvKNLj/sabores-8.png"
+       },
+       {
+           "category": "Tamales",
+           "id": 10,
+           "title": "Tamal de Verde",
+           "price": 14,
+           "image": "https://i.ibb.co/vVb6fWR/tamales.png",
+           "taste": "https://i.ibb.co/MSL8S4V/verde.png"
+       },
+       {
+           "category": "Tamales",
+           "id": 11,
+           "title": "Tamal de Mole",
+           "price": 14,
+           "image": "https://i.ibb.co/YBw6k9y/tamales-1.png",
+           "taste": "https://i.ibb.co/LnD3m3f/sabores-4.png"    
+       },
+       {
+           "category": "Tamales",
+           "id": 12,
+           "title": "Tamal de Guayaba",
+           "price": 14,
+           "image": "https://i.ibb.co/r7vQK2s/tamales-2.png",
+           "taste": "https://i.ibb.co/ZMvYFrr/sabores-3.png"
+       },
+       {
+           "category": "Tamales",
+           "id": 13,
+           "title": "Tamal de Piña",
+           "price": 14,
+           "image": "https://i.ibb.co/tpYtrPd/tamales-3.png",
+           "taste": "https://i.ibb.co/mtRQK5z/sabores-1.png"        
+       },
+       {
+           "category": "Tamales",
+           "id": 14,
+           "title": "Tamal de Pasas",
+           "price": 14,
+           "image": "https://i.ibb.co/7Kv8D7p/tamales-4.png",
+           "taste": "https://i.ibb.co/6sGkk0t/sabores-2.png"
+       }
+   ]
+}

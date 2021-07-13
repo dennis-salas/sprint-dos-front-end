@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  margin: 20px;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 84px;
+  height: 84px;
+  left: 24px;
+  top: 24px;
+}
+
+.cart {
+  width: 44px;
+  height: 44px;
+  left: 24px;
+  top: 24px;
+}
+
+.div-text {
+  display: flex;
+  margin: 20px;
+  justify-content: start;
+}
